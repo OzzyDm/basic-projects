@@ -1,0 +1,10 @@
+h1 {
+  text-align: center;
+}
+button {
+  margin: auto;
+  display: flex;
+  border-radius: 10px;
+  font-size: large;
+  padding: 10px 10px;
+}
